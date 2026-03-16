@@ -1,4 +1,4 @@
-# Module 4: Technical Editing and Proofreading
+# Technical Editing and Proofreading
 
 ---
 
