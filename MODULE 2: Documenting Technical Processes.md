@@ -1,4 +1,4 @@
-# Module 2: Documenting Technical Processes
+# Documenting Technical Processes
 
 ---
 
