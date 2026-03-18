@@ -1,4 +1,4 @@
-# 📘 MODULE 6: Writing for End Users (Manuals, Help Centers)
+# 📘 Writing for End Users (Manuals, Help Centers)
 
 ---
 
